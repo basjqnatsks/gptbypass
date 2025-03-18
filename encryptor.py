@@ -3,7 +3,7 @@ import base64
 import hashlib
 from cryptography.fernet import Fernet
 
-PASSWORD = "pass"
+PASSWORD = "cock123!"
 EXTENSION = ".txt"
 
 
